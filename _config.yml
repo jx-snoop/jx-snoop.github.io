@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jx-snoop.github.io" # the base hostname & protocol for your site
+url: "https://joelljones.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -25,10 +25,10 @@ theme_settings:
   dribbble: 
   facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "https://github.com/joelljones"
   google_plus:
   instagram: 
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/joelljones
   pinterest:
   reddit:
   soundcloud:
